@@ -1,4 +1,4 @@
-[Portfolio URL](https://rajmaiti15.wixsite.com/rajmaiti![image](https://github.com/RajarshiMaiti/RajarshiMaiti/assets/75478574/0988025e-877b-40df-b6a2-f8ded7b17c27))
+[Portfolio URL](https://rajmaiti15.wixsite.com/rajmaiti)
 
 Hi, I am Rajarshi Maiti, a Data Analyst Intern working in UnifierAI. Here's my background and here's what I am up to these days.
 
