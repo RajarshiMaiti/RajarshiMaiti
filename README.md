@@ -2,7 +2,7 @@
 
 Hi, I am Rajarshi Maiti, a Data Analyst Intern working in UnifierAI. Here's my background and here's what I am up to these days.
 
-I am currenly finishing my Post Graduation in Big Data Analytics in Canada and I am also working as a Data Analyst Intern in UnifierAI. I have 3+ years of Work Experience in Wipro Limited, Convergys India Services Limited, HCL Technologies Limited where I was working on Telecommunications domain with work on Data Reporting and Data Analysis.
+I am currenly finishing my Post Graduation in Big Data Analytics in Canada and I am also working as a Data Analyst Intern in UnifierAI. I have 3+ years of Work Experience in Wipro Limited, Convergys India Services Limited, HCL Technologies Limited where I was working on Telecommunications domain with work on Reporting and Data Analysis.
 
 I have also completed my own projects using PowerBI, MySQL and Python and you will all these projects here and still exploring Python and PowerBI for Data Analysis and Understanding.
 
