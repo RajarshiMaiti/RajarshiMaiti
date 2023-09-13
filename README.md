@@ -1,6 +1,6 @@
 [Portfolio URL](https://rajmaiti15.wixsite.com/rajmaiti)
 
-Hi, I am Rajarshi Maiti, a Data Analyst Intern working in UnifierAI. Here's my background and here's what I am up to these days.
+Hi, I am Rajarshi Maiti. Here's my background and here's what I am up to these days.
 
 I am currenly finishing my Post Graduation in Big Data Analytics in Canada and I am also working as a Data Analyst Intern in UnifierAI. I have 3+ years of Work Experience in Wipro Limited, Convergys India Services Limited, HCL Technologies Limited where I was working on Telecommunications domain with work on Unified Communications,Reporting and Data Analysis too.
 
