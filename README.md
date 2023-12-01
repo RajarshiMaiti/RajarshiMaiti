@@ -9,3 +9,8 @@ I have also completed my own projects using PowerBI, Looker Studio, MySQL and Py
 You can find me on [GitHub](https://github.com/RajarshiMaiti/RajarshiMaiti/assets/75478574/a80ed8ba-5149-4325-b734-96825b32670f) and connect with me on [LinkedIn](https://www.linkedin.com/in/rajarshi-maiti-6a152313b/)
 
 Say hi to me at rmaiti0105@gmail.com.
+
+
+
+⚡ Technologies I'm familiar with (Tech stack):
+GitHub Git Python R Matlab Microsoft SharePoint Online MicrosoftSQLServer 
