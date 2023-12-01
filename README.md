@@ -13,4 +13,4 @@ Say hi to me at rmaiti0105@gmail.com.
 
 
 ⚡ Technologies I'm familiar with (Tech stack):
-GitHub Git Python R Matlab Microsoft SharePoint Online MicrosoftSQLServer 
+
