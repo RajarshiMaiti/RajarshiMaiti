@@ -1,4 +1,4 @@
-[Portfolio URL](https://rajmaiti15.wixsite.com/rajmaiti)
+[Portfolio URL](https://www.datascienceportfol.io/rmaiti0105)
 
 Hi, I am Rajarshi Maiti. Here's my background and here's what I am up to these days.
 
